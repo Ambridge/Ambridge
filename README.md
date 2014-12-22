@@ -13,3 +13,5 @@ Have an idea? Then ...
 5. Report back by posting a comment on the issue.
 
 No ideas off the top of your head? Then go see [what we're already working on](https://github.com/Ambridge/Ambridge/issues).
+
+# [Go browse issues!](https://github.com/Ambridge/Ambridge/issues)
