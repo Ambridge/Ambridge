@@ -1,8 +1,6 @@
 # Ambridge
 
-This is an *unofficial* issue tracker for the [Borough of Ambridge](http://www.ambridgeboro.org/) ([Wikipedia](http://en.wikipedia.org/wiki/Ambridge,_Pennsylvania)). It is a citizens' initiative to foster greater collaboration on issues concerning our town. Don't like something about Ambridge? Pitch in!
-
-Have an idea? Then ...
+This is an *unofficial* issue tracker for the [Borough of Ambridge](http://www.ambridgeboro.org/) ([Wikipedia](http://en.wikipedia.org/wiki/Ambridge,_Pennsylvania)). It is a citizens' initiative to foster greater collaboration on issues concerning our town. Have an idea? Then ...
 
 1. [Sign up](https://github.com/join) for a GitHub account.
 2. [Search](https://github.com/Ambridge/Ambridge/search) and/or [browse the issues](https://github.com/Ambridge/Ambridge/issues) to see if anyone already suggested your idea.
