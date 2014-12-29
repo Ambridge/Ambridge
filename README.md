@@ -1,4 +1,4 @@
-# Ambridge
+# Ambridge Issue Tracker
 
 This is an *unofficial* issue tracker for the [Borough of Ambridge](http://www.ambridgeboro.org/) ([Wikipedia](http://en.wikipedia.org/wiki/Ambridge,_Pennsylvania)). It is a citizens' initiative to foster greater collaboration on issues concerning our town. Have an idea? Then ...
 
