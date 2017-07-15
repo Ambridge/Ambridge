@@ -1,6 +1,6 @@
 # Welcome!
 
-This is a shared to-do list for the five towns in the [Ambridge] (http://en.wikipedia.org/wiki/Ambridge,_Pennsylvania) area: Ambridge, Baden, Economy, Harmony, and South Heights. This is a citizens' initiative to foster greater collaboration on issues concerning our area. Have an idea? Then ...
+This is a shared to-do list for the five towns in the [Ambridge](https://en.wikipedia.org/wiki/Ambridge,_Pennsylvania) area: Ambridge, Baden, Economy, Harmony, and South Heights. This is a citizens' initiative to foster greater collaboration on issues concerning our area. Have an idea? Then ...
 
 1. [Sign up](https://github.com/join) for a GitHub account.
 2. [Search](https://github.com/Ambridge/Ambridge/search) and/or [browse the issues](https://github.com/Ambridge/Ambridge/issues) to see if anyone already suggested your idea.
